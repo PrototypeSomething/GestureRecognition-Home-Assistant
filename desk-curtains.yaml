@@ -1,3 +1,7 @@
+# This is the ESPHome-config fole for my ESP32 based (Seeeduino Xiao ESP32S3-Sense) smart curtains, 
+# The curtain uses the built in camera of the module to allow the user to get a live camera feed to use in appropriate ways. 
+# NO DATA IS SAVED, PLEASE DON'T USE INAPPROPRIATELY, i am not held accountable for potential misuse of this module
+
 esphome:
   name: desk
   friendly_name: Desk
